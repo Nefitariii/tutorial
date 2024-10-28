@@ -6,3 +6,4 @@ DNA 的 HEDGES 纠错码:https://github.com/whpress/hedges
 DNA-Fountain:https://github.com/TeamErlich/dna-fountain 
 平台：https://github.com/WangLabTHU/DeSP
 DNA-Aeon：https://github.com/MW55/DNA-Aeon
+喷泉码 LT码：https://github.com/Neo-ZK/LT_code
